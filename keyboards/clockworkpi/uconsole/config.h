@@ -6,6 +6,9 @@
 #define BACKLIGHT_PWM_DRIVER PWMD1
 #define BACKLIGHT_PWM_CHANNEL 1
 
+#define POINTING_DEVICE_HIRES_SCROLL_ENABLE
+#define POINTING_DEVICE_HIRES_SCROLL_MULTIPLIER 2
+
 /*
  * To match stm32duino default used ny OEM firmware.
  *
